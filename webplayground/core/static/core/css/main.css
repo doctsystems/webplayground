@@ -30,6 +30,25 @@ main{
 max-width: 40rem;
 }
 
+body {
+    background: url("../img/bg.jpeg");
+    /*background-attachment: fixed;*/
+    /*background-position: center;*/
+    background-size: cover;
+    /*background: #6c757d;*/
+    color: #dee2e6;
+}
+
+.bg-light {
+    background-color: #6c757d!important;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
 footer {
     padding-top: 3rem;
     padding-bottom: 3rem;
