@@ -13,7 +13,7 @@ Web Playground es un proyecto avanzado y de especialización, centrado puramente
 - [Acceder al sitio web](https://diegoosvaldo85.pythonanywhere.com/)
 
 
-<img   src="https://github.com/doctsystems/webplayground/blob/dae1158a951a8608d470b18a114c812f82ce7e9d/screenshot.png" />
+<img   src="" />
 
 ---
 ## Que es lo que hay?
